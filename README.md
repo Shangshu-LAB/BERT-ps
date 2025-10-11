@@ -1,4 +1,5 @@
 # BERT-ps
+The repository of paper "Robustness Matters: Pre-Training can Enhance the Performance of Encrypted Traffic Analysis", accepted by TIFS'25.
 
 ## requirements
 Pytorch >= 2.3.0
